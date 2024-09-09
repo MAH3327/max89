@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="123ffeff-8605-4870-87b2-c51159c5d5b1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$USER_HOME$/wp-admin" />
+      <path value="$USER_HOME$/wp-includes" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1jdpFumGMjROxkISA7BxTBDa4u0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/xampp/htdocs/wordpress/wp-content/themes/M.A.H04&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.project.grazie&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\RM\Desktop\html-css" />
+      <recent name="C:\Users\Reza\Desktop\thml-css" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="123ffeff-8605-4870-87b2-c51159c5d5b1" name="Default Changelist" comment="" />
+      <created>1604143722766</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604143722766</updated>
+      <workItem from="1604143723808" duration="3154000" />
+      <workItem from="1604173706694" duration="4417000" />
+      <workItem from="1604214885371" duration="14433000" />
+      <workItem from="1604255522004" duration="2289000" />
+      <workItem from="1604260057149" duration="3625000" />
+      <workItem from="1604304001434" duration="606000" />
+      <workItem from="1604309298401" duration="9814000" />
+      <workItem from="1604342863568" duration="8579000" />
+      <workItem from="1604392033015" duration="169000" />
+      <workItem from="1604397020442" duration="2616000" />
+      <workItem from="1604409200527" duration="5067000" />
+      <workItem from="1604416487797" duration="2076000" />
+      <workItem from="1610706161703" duration="793000" />
+      <workItem from="1610707840928" duration="2705000" />
+      <workItem from="1610714470038" duration="11243000" />
+      <workItem from="1611705843723" duration="2216000" />
+      <workItem from="1611739414670" duration="8625000" />
+      <workItem from="1688797784112" duration="1384000" />
+      <workItem from="1688917744222" duration="7034000" />
+      <workItem from="1688999547071" duration="10859000" />
+      <workItem from="1689141509541" duration="1840000" />
+      <workItem from="1689144216621" duration="4207000" />
+      <workItem from="1689170516358" duration="5401000" />
+      <workItem from="1689255835120" duration="4989000" />
+      <workItem from="1689400167509" duration="4225000" />
+      <workItem from="1689404470552" duration="3182000" />
+      <workItem from="1689433277608" duration="4586000" />
+      <workItem from="1689605045583" duration="2885000" />
+      <workItem from="1689654233902" duration="4278000" />
+      <workItem from="1689688328708" duration="6496000" />
+      <workItem from="1689774735670" duration="7505000" />
+      <workItem from="1689831607273" duration="89000" />
+      <workItem from="1689832782586" duration="539000" />
+      <workItem from="1689833763779" duration="2272000" />
+      <workItem from="1691127788442" duration="137000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/js/main.js</url>
+          <line>2</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
